@@ -15,7 +15,7 @@ graphing-query
 ```
 
 ## 🎬 Demo
-https://github.com/amikulaa/graphing-query/assets/142363956/2cc01d66-c79e-4625-a0c5-7709ddcbff93
+
 
 ## Features
 
